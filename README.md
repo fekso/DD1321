@@ -1,6 +1,6 @@
 DD1321 Applied Programming and Computer Science
 
-Ten assignments, four in LABP and five in LABD. There are two seperate programming course components in the course. 
+Ten assignments, four in LABP and six in LABD. There are two seperate programming course components in the course. 
 
 Course component LABP consists of:
 E-part p1-p4.
